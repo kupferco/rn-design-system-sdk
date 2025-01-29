@@ -1,1 +1,1 @@
-# rn-design-system-sdk
+# React Native Design System SDK (Study)
